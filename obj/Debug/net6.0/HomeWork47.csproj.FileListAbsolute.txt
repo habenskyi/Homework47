@@ -1,0 +1,15 @@
+C:\Cisharp\HOMEWORK\HomeWork47\bin\Debug\net6.0\HomeWork47.exe
+C:\Cisharp\HOMEWORK\HomeWork47\bin\Debug\net6.0\HomeWork47.deps.json
+C:\Cisharp\HOMEWORK\HomeWork47\bin\Debug\net6.0\HomeWork47.runtimeconfig.json
+C:\Cisharp\HOMEWORK\HomeWork47\bin\Debug\net6.0\HomeWork47.dll
+C:\Cisharp\HOMEWORK\HomeWork47\bin\Debug\net6.0\HomeWork47.pdb
+C:\Cisharp\HOMEWORK\HomeWork47\obj\Debug\net6.0\HomeWork47.csproj.AssemblyReference.cache
+C:\Cisharp\HOMEWORK\HomeWork47\obj\Debug\net6.0\HomeWork47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cisharp\HOMEWORK\HomeWork47\obj\Debug\net6.0\HomeWork47.AssemblyInfoInputs.cache
+C:\Cisharp\HOMEWORK\HomeWork47\obj\Debug\net6.0\HomeWork47.AssemblyInfo.cs
+C:\Cisharp\HOMEWORK\HomeWork47\obj\Debug\net6.0\HomeWork47.csproj.CoreCompileInputs.cache
+C:\Cisharp\HOMEWORK\HomeWork47\obj\Debug\net6.0\HomeWork47.dll
+C:\Cisharp\HOMEWORK\HomeWork47\obj\Debug\net6.0\refint\HomeWork47.dll
+C:\Cisharp\HOMEWORK\HomeWork47\obj\Debug\net6.0\HomeWork47.pdb
+C:\Cisharp\HOMEWORK\HomeWork47\obj\Debug\net6.0\HomeWork47.genruntimeconfig.cache
+C:\Cisharp\HOMEWORK\HomeWork47\obj\Debug\net6.0\ref\HomeWork47.dll
